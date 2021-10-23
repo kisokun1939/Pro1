@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  overflow: hidden;
+}
+#ranges {
+  margin: 5px;
+}
+#canvas {
+  z-index: 2
+}
